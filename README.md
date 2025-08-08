@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  [cite_start]<b>Um desenvolvedor Full Stack apaixonado por programação e pela criação de soluções criativas. [cite: 2]</b><br>
-  [cite_start]Meu principal objetivo é utilizar minhas habilidades para desenvolver códigos eficientes e funcionais [cite: 2][cite_start], buscando sempre contribuir com projetos desafiadores que tragam inovação e impacto positivo. [cite: 3]
+  <b>Um desenvolvedor Full Stack apaixonado por programação e pela criação de soluções criativas.</b><br>
+  Meu principal objetivo é utilizar minhas habilidades para desenvolver códigos eficientes e funcionais, buscando sempre contribuir com projetos desafiadores que tragam inovação e impacto positivo.
 </p>
 
 ---
@@ -39,17 +39,17 @@
 <h2 align="center">💼 Experiência Profissional</h2>
 
 <details align="left">
-  <summary><strong>Desenvolvedor de Automação e Inteligência Artificial | [cite_start]Cliksofthouse</strong> [cite: 42, 43]</summary>
+  <summary><strong>Desenvolvedor de Automação e Inteligência Artificial | Cliksofthouse</strong></summary>
   <br>
   <ul>
-    [cite_start]<li>Desenvolvimento de automações para otimização de processos manuais. [cite: 45, 46]</li>
+    <li>Desenvolvimento de automações para otimização de processos manuais. [cite: 45]</li>
     [cite_start]<li>Criação de robôs para extração e integração de informações de sites. [cite: 46]</li>
     [cite_start]<li>Implementação de soluções com inteligência artificial utilizando a API do ChatGPT. [cite: 46]</li>
   </ul>
 </details>
 
 <details align="left">
-  <summary><strong>Desenvolvedor de Software Júnior | [cite_start]Vale S.A.</strong> [cite: 29, 30, 31]</summary>
+  <summary><strong>Desenvolvedor de Software Júnior | Vale S.A.</strong></summary>
   <br>
   <ul>
     [cite_start]<li>Responsável por identificar, corrigir bugs e melhorar o código existente dos programas. [cite: 33]</li>
@@ -57,7 +57,7 @@
 </details>
 
 <details align="left">
-  <summary><strong>Coordenador de Infraestrutura de TI | [cite_start]Multivix</strong> [cite: 34, 35, 36]</summary>
+  <summary><strong>Coordenador de Infraestrutura de TI | Multivix</strong></summary>
   <br>
   <ul>
     [cite_start]<li>Gerenciamento da infraestrutura de TI da faculdade. [cite: 38]</li>
@@ -91,7 +91,7 @@
           </a>
         </p>
         <p>
-          <a href="www.linkedin.com/in/vinícius-chiabai" target="_blank">
+          <a href="https://www.linkedin.com/in/vinícius-chiabai" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
           </a>
         </p>
