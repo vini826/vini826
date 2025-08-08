@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vini826/vini826/main/capa.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vini826/vini826/main/capa.png" width="50%"/>
 </div>
 
 <div>
