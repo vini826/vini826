@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VChiabai/VChiabai/main/banner-github.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vini826/vini826/main/capa.jpg" width="100%"/>
 </div>
 
 <div>
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,csharp,php,java,cpp,react,nodejs,express,git,docker,postgres,mysql,powerbi,postman" alt="Minhas Habilidades"/>
+    <img src="https://skillicons.dev/icons?i=js,python,php,java,cpp,react,nodejs,express,git,docker,postgres,mysql,postman" alt="Minhas Habilidades"/>
   </a>
 </p>
 
@@ -42,9 +42,9 @@
   <summary><strong>Desenvolvedor de Automação e Inteligência Artificial | Cliksofthouse</strong></summary>
   <br>
   <ul>
-    <li>Desenvolvimento de automações para otimização de processos manuais. [cite: 45]</li>
-    [cite_start]<li>Criação de robôs para extração e integração de informações de sites. [cite: 46]</li>
-    [cite_start]<li>Implementação de soluções com inteligência artificial utilizando a API do ChatGPT. [cite: 46]</li>
+    <li>Desenvolvimento de automações para otimização de processos manuais. </li>
+    <li>Criação de robôs para extração e integração de informações de sites. </li>
+    <li>Implementação de soluções com inteligência artificial utilizando a API do ChatGPT.</li>
   </ul>
 </details>
 
@@ -52,7 +52,7 @@
   <summary><strong>Desenvolvedor de Software Júnior | Vale S.A.</strong></summary>
   <br>
   <ul>
-    [cite_start]<li>Responsável por identificar, corrigir bugs e melhorar o código existente dos programas. [cite: 33]</li>
+    <li>Responsável por identificar, corrigir bugs e melhorar o código existente dos programas.</li>
   </ul>
 </details>
 
@@ -60,8 +60,8 @@
   <summary><strong>Coordenador de Infraestrutura de TI | Multivix</strong></summary>
   <br>
   <ul>
-    [cite_start]<li>Gerenciamento da infraestrutura de TI da faculdade. [cite: 38]</li>
-    [cite_start]<li>Liderança de equipe para garantir o funcionamento de equipamentos e redes. [cite: 39, 40]</li>
+    <li>Gerenciamento da infraestrutura de TI da faculdade. </li>
+    <li>Liderança de equipe para garantir o funcionamento de equipamentos e redes. </li>
   </ul>
 </details>
 
@@ -73,14 +73,14 @@
       <td width="50%">
         <h2>🎓 Formação Acadêmica</h2>
         <ul>
-          [cite_start]<li><strong>Engenharia da Computação</strong> <br> Multivix Vila Velha (2022-2026) [cite: 15, 16]</li>
-          [cite_start]<li><strong>Tecnologia da Informação</strong> <br> Instituto Federal de Mato Grosso do Sul (2018-2021) [cite: 9, 10]</li>
+          <li><strong>Engenharia da Computação</strong> <br> Multivix Vila Velha (2022-2026) </li>
+          <li><strong>Tecnologia da Informação</strong> <br> Instituto Federal de Mato Grosso do Sul (2018-2021) </li>
         </ul>
         <h2>📚 Cursos</h2>
         <ul>
-          [cite_start]<li><strong>Inglês (Nível B2)</strong> - Wizard Idiomas (2020-Atualmente) [cite: 12, 13, 14, 20]</li>
-          [cite_start]<li><strong>Curso de Python</strong> - Udemy (2023) [cite: 22, 23, 24]</li>
-          [cite_start]<li><strong>Power BI</strong> - IFMG (2024) [cite: 25, 26, 27]</li>
+          <li><strong>Inglês (Nível B2)</strong> - Wizard Idiomas (2020-Atualmente) </li>
+          <li><strong>Curso de Python</strong> - Udemy (2023) </li>
+          <li><strong>Power BI</strong> - IFMG (2024) </li>
         </ul>
       </td>
       <td width="50%">
