@@ -30,8 +30,8 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini826&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini826&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
           </a>
         </p>
         <p>
-          <a href="https://www.linkedin.com/in/SEU-LINK-DO-LINKEDIN" target="_blank">
+          <a href="www.linkedin.com/in/vinícius-chiabai" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
           </a>
         </p>
